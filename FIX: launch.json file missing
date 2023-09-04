@@ -1,0 +1,4 @@
+launch.program ******* does not exist.
+To solve this:
+On Visual Studio Code, it will be recommended to you different compilers to fix the problem.
+Beware of choosing g++ instead of gcc to fix the problem.
